@@ -1,0 +1,19 @@
+{
+  "name": "hogwarts-flask-dovidbaars",
+  "version": "1.0.0",
+  "description": "hogwarts backend flask server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeltechchallenge/hogwarts-flask-DovidBaars.git"
+  },
+  "author": "Dovid Baars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeltechchallenge/hogwarts-flask-DovidBaars/issues"
+  },
+  "homepage": "https://github.com/israeltechchallenge/hogwarts-flask-DovidBaars#readme"
+}
